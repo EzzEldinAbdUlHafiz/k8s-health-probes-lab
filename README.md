@@ -1,4 +1,4 @@
-# Kubernetes Health Probes Lab: Deep Dive
+# Kubernetes Health Probes Lab:
 
 This lab provides hands-on experience with Kubernetes health checks. You will learn how to ensure application availability and reliability using **Liveness**, **Readiness**, and **Startup** probes.
 
